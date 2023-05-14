@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monochromatic-code/static/css/main.d3fc9690.css",
+    "main.js": "/monochromatic-code/static/js/main.c4358fce.js",
+    "static/js/787.862c3719.chunk.js": "/monochromatic-code/static/js/787.862c3719.chunk.js",
+    "index.html": "/monochromatic-code/index.html",
+    "main.d3fc9690.css.map": "/monochromatic-code/static/css/main.d3fc9690.css.map",
+    "main.c4358fce.js.map": "/monochromatic-code/static/js/main.c4358fce.js.map",
+    "787.862c3719.chunk.js.map": "/monochromatic-code/static/js/787.862c3719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fc9690.css",
+    "static/js/main.c4358fce.js"
+  ]
+}
